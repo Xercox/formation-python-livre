@@ -1,0 +1,28 @@
+# Fichiers compilés Python
+__pycache__/
+*.py[cod]
+
+# Environnements virtuels
+venv/
+env/
+ENV/
+
+# Fichiers de logs
+*.log
+
+# Fichiers de configuration perso (exemple pour variables d'environnement)
+.env
+
+# Dossiers et fichiers temporaires
+*.tmp
+*.temp
+
+# IDE et éditeurs
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Autres fichiers à ignorer
+.DS_Store  # macOS
+Thumbs.db  # Windows
